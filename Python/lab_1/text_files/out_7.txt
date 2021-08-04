@@ -1,0 +1,151 @@
+1)-------------------------------------------------------------------------
+Word THE meets 10 times
+Word PM meets 1 times
+Word SAID meets 3 times
+Word UK meets 1 times
+Word WOULD meets 2 times
+Word NEED meets 1 times
+Word AN meets 3 times
+Word ALTERNATIVE meets 1 times
+Word WAY meets 1 times
+Word FORWARD meets 1 times
+Word AFTER meets 1 times
+Word HER meets 1 times
+Word PLAN meets 1 times
+Word WAS meets 2 times
+Word DEFEATED meets 1 times
+Word BY meets 2 times
+Word 58 meets 1 times
+Word VOTES meets 3 times
+Word ON meets 2 times
+Word FRIDAY meets 1 times
+Word MPS meets 1 times
+Word FROM meets 1 times
+Word ALL meets 1 times
+Word PARTIES meets 1 times
+Word WILL meets 3 times
+Word TEST meets 1 times
+Word SUPPORT meets 2 times
+Word FOR meets 3 times
+Word OTHER meets 1 times
+Word OPTIONS meets 2 times
+Word DURING meets 2 times
+Word A meets 2 times
+Word SECOND meets 1 times
+Word ROUND meets 1 times
+Word OF meets 6 times
+Word INDICATIVE meets 1 times
+Word MONDAY meets 1 times
+Word HOWEVER meets 1 times
+Word CONSERVATIVE meets 1 times
+Word PARTY meets 2 times
+Word CHAIRMAN meets 1 times
+Word BRANDON meets 1 times
+Word LEWIS meets 1 times
+Word GOVERNMENT meets 1 times
+Word DID meets 1 times
+Word NOT meets 1 times
+Word ANY meets 1 times
+Word THOSE meets 1 times
+Word LABOUR meets 1 times
+Word LEADER meets 1 times
+Word JEREMY meets 1 times
+Word CORBYN meets 1 times
+Word REFUSED meets 1 times
+Word TO meets 5 times
+Word SAY meets 1 times
+Word WHETHER meets 1 times
+Word HIS meets 1 times
+Word OFFER meets 1 times
+Word OPTION meets 1 times
+Word REMAIN meets 1 times
+Word IN meets 1 times
+Word EU meets 1 times
+Word THESE meets 1 times
+Word BUT meets 1 times
+Word OBVIOUS meets 1 times
+Word CHOICE meets 1 times
+Word GOOD meets 2 times
+Word ECONOMIC meets 1 times
+Word RELATIONSHIP meets 1 times
+Word WITH meets 1 times
+Word EUROPE meets 1 times
+Word ENGLISH meets 3 times
+Word TEXTS meets 4 times
+Word BEGINNERS meets 1 times
+Word PRACTICE meets 1 times
+Word READING meets 1 times
+Word AND meets 11 times
+Word COMPREHENSION meets 2 times
+Word ONLINE meets 1 times
+Word FREE meets 2 times
+Word PRACTICING meets 1 times
+Word YOUR meets 4 times
+Word WRITTEN meets 1 times
+Word BOTH meets 2 times
+Word IMPROVE meets 1 times
+Word VOCABULARY meets 1 times
+Word UNDERSTANDING meets 1 times
+Word GRAMMAR meets 1 times
+Word WORD meets 1 times
+Word ORDER meets 1 times
+Word BELOW meets 1 times
+Word ARE meets 2 times
+Word DESIGNED meets 1 times
+Word HELP meets 1 times
+Word YOU meets 4 times
+Word DEVELOP meets 1 times
+Word WHILE meets 1 times
+Word GIVING meets 1 times
+Word INSTANT meets 1 times
+Word EVALUATION meets 1 times
+Word PROGRESS meets 1 times
+Word PREPARED meets 1 times
+Word EXPERIENCED meets 1 times
+Word TEACHERS meets 1 times
+Word ARTICLES meets 1 times
+Word CONVERSATIONS meets 1 times
+Word BRIEF meets 1 times
+Word APPROPRIATE meets 1 times
+Word LEVEL meets 1 times
+Word PROFICIENCY meets 1 times
+Word TAKE meets 1 times
+Word MULTIPLE-CHOICE meets 1 times
+Word QUIZ meets 1 times
+Word FOLLOWING meets 1 times
+Word EACH meets 1 times
+Word TEXT meets 1 times
+Word YOULL meets 1 times
+Word GET meets 1 times
+Word RESULTS meets 1 times
+Word IMMEDIATELY meets 1 times
+Word FEEL meets 1 times
+Word CHALLENGED meets 1 times
+Word ACCOMPLISHED meets 1 times
+Word CAN meets 1 times
+Word EVEN meets 1 times
+Word DOWNLOAD meets 1 times
+Word AS meets 1 times
+Word PDF meets 1 times
+Word PRINT meets 1 times
+Word EXERCISES meets 1 times
+Word ITS meets 1 times
+Word ENJOYABLE meets 1 times
+Word FUN meets 1 times
+Word LUCK meets 1 times
+2)-------------------------------------------------------------------------
+The average amount of words in sentences is 14
+3)-------------------------------------------------------------------------
+The median amount of words in sentences is 16
+4)-------------------------------------------------------------------------
+Top 1 is OF. 6 times
+Top 2 is TO. 5 times
+Top 3 is AN. 3 times
+Top 4 is BY. 2 times
+Top 5 is ON. 2 times
+Top 6 is PM. 1 times
+Top 7 is UK. 1 times
+Top 8 is 58. 1 times
+Top 9 is IN. 1 times
+Top 10 is EU. 1 times
+Top 11 is AS. 1 times
